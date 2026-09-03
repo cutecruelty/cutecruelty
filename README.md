@@ -1,10 +1,10 @@
-i'm cutecruelty
-residing in russia
-c2 in english
+i'm cutecruelty<br>
+residing in russia<br>
+c2 in english<br>
 
-fullstack web dev in the final yr of college
-moving towards security
-
+fullstack web dev in the final yr of college<br>
+moving towards security<br>
+<br>
 <br>
 
 ### Stack
@@ -26,12 +26,7 @@ moving towards security
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 </p>
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cutecruelty&show_icons=true&theme=default&hide_title=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutecruelty&layout=compact&hide_border=true" width="30%" />
-</p>
