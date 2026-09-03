@@ -1,10 +1,10 @@
 i'm cutecruelty<br>
+17 y.o<br>
 residing in russia<br>
 c2 in english<br>
 
 fullstack web dev in the final yr of college<br>
 moving towards security<br>
-<br>
 ### Stack
 
 <p align="left">
@@ -24,7 +24,7 @@ moving towards security<br>
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-   <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white" />
 </p>
 
 <br>
